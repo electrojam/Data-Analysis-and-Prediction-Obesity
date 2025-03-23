@@ -29,41 +29,35 @@ Los principales objeticos del análisis de datos son:
 Comparación de Modelos: Se evaluaron seis modelos de Machine Learning: KNN, Decision Tree Classifier, Random Forest Classifier, Gradient Boosting Classifier, Ada Boost Classifier y Logistic Regression.
 Métricas de Evaluación: Se utilizaron las métricas de accuracy, precision y recall para evaluar el rendimiento de los modelos.
 
-Model: KNN  
-Accuracy: 81.62878787878788  
-Precision: 81.31150462841005  
-F1 score: 0.8077480844867615  
-Recall: 0.8162878787878788  
-------------------------------
-Model: Decision Tree Classifier  
-Accuracy: 91.47727272727273  
-Precision: 91.48493372320604  
-F1 score: 0.9144768408140569  
-Recall: 0.9147727272727273  
-------------------------------
-Model: Random Forest Classifier  
-Accuracy: 94.31818181818183  
-Precision: 94.5775231254653  
-F1 score: 0.9437697615967486  
-Recall: 0.9431818181818182  
-------------------------------
-Model: Gradient Boosting Classfifier  
-Accuracy: 94.31818181818183  
-Precision: 94.34135706862978  
-F1 score: 0.942974610547896  
-Recall: 0.9431818181818182  
-------------------------------
-Model: Ada Boost Classifier  
-Accuracy: 47.53787878787879  
-Precision: 45.00560058227326  
-F1 score: 0.396619356012694  
-Recall: 0.4753787878787879  
-------------------------------
-Model: Logistic Regresion  
-Accuracy: 85.79545454545455  
-Precision: 86.09079597466408  
-F1 score: 0.8536082687270117  
-Recall: 0.8579545454545454  
+Modelo: KNN
+Accuracy: 81.65869218500798
+Precision: 81.67993645818241
+Recall: 81.65869218500798
+==============================
+Modelo: Decision Tree Classifier
+Accuracy: 96.96969696969697
+Precision: 97.14454752360135
+Recall: 96.96969696969697
+==============================
+Modelo: Random Forest Classifier
+Accuracy: 99.20255183413079
+Precision: 99.22777037165635
+Recall: 99.20255183413079
+==============================
+Modelo: Gradient Boosting Classfifier
+Accuracy: 97.4481658692185
+Precision: 97.60283747119537
+Recall: 97.4481658692185
+==============================
+Modelo: Ada Boost Classifier
+Accuracy: 77.35247208931419
+Precision: 74.43367771542005
+Recall: 77.35247208931419
+==============================
+Modelo: Logistic Regresion
+Accuracy: 86.60287081339713
+Precision: 86.97306961104438
+Recall: 86.60287081339713 
 ------------------------------
 Resultados: Los resultados muestran que Gradient Boosting Classifier y Random Forest Classifier tienen el mejor rendimiento en general, con valores altos de accuracy, precision y recall.
 
